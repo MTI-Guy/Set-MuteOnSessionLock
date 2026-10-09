@@ -36,7 +36,7 @@ Paramètres (`MuteOnSessionLock.settings`) : `StayMutedAtNight` (`true`/`false`)
 
 ## Statut
 
-Fourni **tel quel, sans support** ni garantie. Vous pouvez m'écrire (issues ou courriel) : je répondrai quand je le pourrai, sans engagement de délai.
+Fourni **tel quel, sans support** ni garantie. Vous pouvez m'écrire en ouvrant un ticket (onglet « Issues » du dépôt) : je répondrai quand je le pourrai, sans engagement de délai.
 
 ## Licence
 
